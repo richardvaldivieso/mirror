@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rvaldivieso\\source\\Mirror\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror.tests\\mirrortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|solutionrelative:mirror.tests\\mirrortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirrorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirrorengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\inamingpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\inamingpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror.tests\\mirror.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|solutionrelative:mirror.tests\\mirror.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirror.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirror.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirrormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirrormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror.tests\\mirrorcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|solutionrelative:mirror.tests\\mirrorcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirrorregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirrorregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\universaltopascalpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\universaltopascalpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\mirrorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\mirrorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\imirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\imirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\imapplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\imapplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6C6D83-7867-48D6-A882-E3CF6A03BE56}|Mirror\\Mirror.csproj|solutionrelative:mirror\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror.tests\\namingpolicytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|solutionrelative:mirror.tests\\namingpolicytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|c:\\users\\rvaldivieso\\source\\mirror\\mirror.tests\\mirrorregistrytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09930A20-35B3-4300-A88C-5C25E7862CAE}|Mirror.Tests\\Mirror.Tests.csproj|solutionrelative:mirror.tests\\mirrorregistrytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MirrorTests.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorTests.cs",
+              "RelativeDocumentMoniker": "Mirror.Tests\\MirrorTests.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorTests.cs",
+              "RelativeToolTip": "Mirror.Tests\\MirrorTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:14:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mirror.Tests",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\Mirror.Tests.csproj",
+              "RelativeDocumentMoniker": "Mirror.Tests\\Mirror.Tests.csproj",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\Mirror.Tests.csproj",
+              "RelativeToolTip": "Mirror.Tests\\Mirror.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T13:11:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mirror.csproj",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\Mirror.csproj",
+              "RelativeDocumentMoniker": "Mirror\\Mirror.csproj",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\Mirror.csproj",
+              "RelativeToolTip": "Mirror\\Mirror.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T21:00:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MirrorMap.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorMap.cs",
+              "RelativeDocumentMoniker": "Mirror\\MirrorMap.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorMap.cs",
+              "RelativeToolTip": "Mirror\\MirrorMap.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:29:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MirrorExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorExtensions.cs",
+              "RelativeDocumentMoniker": "Mirror\\MirrorExtensions.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorExtensions.cs",
+              "RelativeToolTip": "Mirror\\MirrorExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:29:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMirror.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IMirror.cs",
+              "RelativeDocumentMoniker": "Mirror\\IMirror.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IMirror.cs",
+              "RelativeToolTip": "Mirror\\IMirror.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:28:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMapPlan.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IMapPlan.cs",
+              "RelativeDocumentMoniker": "Mirror\\IMapPlan.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IMapPlan.cs",
+              "RelativeToolTip": "Mirror\\IMapPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:28:42.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INamingPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\INamingPolicy.cs",
+              "RelativeDocumentMoniker": "Mirror\\INamingPolicy.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\INamingPolicy.cs",
+              "RelativeToolTip": "Mirror\\INamingPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:01:03.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MirrorEngine.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorEngine.cs",
+              "RelativeDocumentMoniker": "Mirror\\MirrorEngine.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorEngine.cs",
+              "RelativeToolTip": "Mirror\\MirrorEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:38:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MirrorRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorRegistry.cs",
+              "RelativeDocumentMoniker": "Mirror\\MirrorRegistry.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorRegistry.cs",
+              "RelativeToolTip": "Mirror\\MirrorRegistry.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:30:08.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MirrorCollectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorCollectionTests.cs",
+              "RelativeDocumentMoniker": "Mirror.Tests\\MirrorCollectionTests.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorCollectionTests.cs",
+              "RelativeToolTip": "Mirror.Tests\\MirrorCollectionTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:52:16.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IConfiguration.cs",
+              "RelativeDocumentMoniker": "Mirror\\IConfiguration.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\IConfiguration.cs",
+              "RelativeToolTip": "Mirror\\IConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:28:40.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NamingPolicyTests.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\NamingPolicyTests.cs",
+              "RelativeDocumentMoniker": "Mirror.Tests\\NamingPolicyTests.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\NamingPolicyTests.cs",
+              "RelativeToolTip": "Mirror.Tests\\NamingPolicyTests.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwFwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:24:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\README.md",
+              "RelativeDocumentMoniker": "Mirror\\README.md",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\README.md",
+              "RelativeToolTip": "Mirror\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-15T18:33:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MirrorRegistryTests.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorRegistryTests.cs",
+              "RelativeDocumentMoniker": "Mirror.Tests\\MirrorRegistryTests.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror.Tests\\MirrorRegistryTests.cs",
+              "RelativeToolTip": "Mirror.Tests\\MirrorRegistryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:12:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UniversalToPascalPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\UniversalToPascalPolicy.cs",
+              "RelativeDocumentMoniker": "Mirror\\UniversalToPascalPolicy.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\UniversalToPascalPolicy.cs",
+              "RelativeToolTip": "Mirror\\UniversalToPascalPolicy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:02:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MirrorConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorConfig.cs",
+              "RelativeDocumentMoniker": "Mirror\\MirrorConfig.cs",
+              "ToolTip": "C:\\Users\\rvaldivieso\\source\\Mirror\\Mirror\\MirrorConfig.cs",
+              "RelativeToolTip": "Mirror\\MirrorConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:38:19.998Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

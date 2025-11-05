@@ -1,0 +1,51 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+*.sln.iml
+
+# VS Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+# NuGet restore
+packages/
+
+# Test results
+TestResults/
+
+# Build logs
+*.log
+
+# Resharper
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.vspscc
+*.vssscc
+
+# Backup & temp files
+*~
+*.tmp
+*.bak
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
