@@ -356,7 +356,7 @@ A: Yes. Captured values are embedded as constants in the expression tree used to
 
 ## License
 
-MIT (suggested). Add your preferred license file to the repo.
+MIT
 
 ---
 
